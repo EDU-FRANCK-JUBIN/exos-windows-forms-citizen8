@@ -1,0 +1,9 @@
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\bin\Debug\databinding.exe.config
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\bin\Debug\databinding.exe
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\bin\Debug\databinding.pdb
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\obj\Debug\databinding.csprojAssemblyReference.cache
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\obj\Debug\databinding.Form1.resources
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\obj\Debug\databinding.Properties.Resources.resources
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\obj\Debug\databinding.csproj.GenerateResource.cache
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\obj\Debug\databinding.exe
+C:\Users\GALCERANPaul\source\repos\databinding\databinding\obj\Debug\databinding.pdb
